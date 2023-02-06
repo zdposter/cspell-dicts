@@ -24,6 +24,7 @@ Various [cspell](https://github.com/streetsidesoftware/cspell) dictionaries. Eac
 - [Russian](dictionaries/ru_RU)
 - [Serbian (Cyrillic)](dictionaries/sr_Cyrl/)
 - [Serbian (Latin)](dictionaries/sr_Latn/)
+- [Slovak](dictionaries/sk_SK)
 - [Slovenian](dictionaries/sl_SI)
 - [Spanish](dictionaries/es_ES)
 - [Swedish](dictionaries/sv)
